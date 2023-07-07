@@ -1,0 +1,15 @@
+
+Character control:
+
+Move up: /\
+Move down: \/
+Move right: >
+Move left: <
+Shoot: z
+
+Rules:
+
+For shooting need to take the sword
+
+If the character collided with the enemy or 
+the character's health is ended the game is over
